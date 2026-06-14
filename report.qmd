@@ -3,7 +3,7 @@ title: "Wizualizacja grafów na mapach: sieć transferów piłkarskich w Europie
 subtitle: "Analiza danych przestrzennych — projekt grupowy"
 author:
   - "Antoni Handschuh"
-  - "Antoni Mirkowski"
+  - "Anton"
 date: today
 lang: pl
 bibliography: references.bib
