@@ -46,5 +46,5 @@ Pobierz ręcznie z Kaggle i rozpakuj pliki `transfers.csv`, `clubs.csv`,
 
 ## Autorzy
 
-- Imię Nazwisko
-- Imię Nazwisko
+- Antoni Handschuh
+- Antoni Mirkowski
