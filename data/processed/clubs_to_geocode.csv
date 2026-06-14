@@ -1,0 +1,178 @@
+club_id,club_name,stadium_name,country,league_id
+11,Arsenal,Emirates Stadium,England,GB1
+405,Aston Villa,Villa Park,England,GB1
+989,Bournemouth,Vitality Stadium,England,GB1
+1148,Brentford,Gtech Community Stadium,England,GB1
+1237,Brighton,AMEX Stadium,England,GB1
+1132,Burnley,Turf Moor,England,GB1
+603,Cardiff,Cardiff City Stadium,England,GB1
+631,Chelsea,Stamford Bridge,England,GB1
+873,Crystal Palace,Selhurst Park,England,GB1
+29,Everton,Hill Dickinson Stadium,England,GB1
+931,Fulham,Craven Cottage,England,GB1
+1110,Huddersfield,John Smith's Stadium,England,GB1
+3008,Hull City,MKM Stadium,England,GB1
+677,Ipswich,Portman Road,England,GB1
+399,Leeds,Elland Road,England,GB1
+1003,Leicester,King Power Stadium,England,GB1
+31,Liverpool,Anfield,England,GB1
+1031,Luton,Kenilworth Road,England,GB1
+281,Man City,Etihad Stadium,England,GB1
+985,Man Utd,Old Trafford,England,GB1
+641,Middlesbrough,Riverside Stadium,England,GB1
+762,Newcastle,St James' Park,England,GB1
+1123,Norwich,Carrow Road,England,GB1
+703,Nott'm Forest,The City Ground,England,GB1
+1039,QPR,Loftus Road Stadium,England,GB1
+1032,Reading,Select Car Leasing Stadium,England,GB1
+350,Sheff Utd,Bramall Lane,England,GB1
+180,Southampton,St Mary's Stadium,England,GB1
+512,Stoke City,bet365 Stadium,England,GB1
+289,Sunderland,Stadium of Light,England,GB1
+2288,Swansea,Swansea.com Stadium,England,GB1
+148,Tottenham,Tottenham Hotspur Stadium,England,GB1
+1010,Watford,Vicarage Road,England,GB1
+984,West Brom,The Hawthorns,England,GB1
+379,West Ham,London Stadium,England,GB1
+1071,Wigan,DW Stadium,England,GB1
+543,Wolves,Molineux Stadium,England,GB1
+1147,AC Ajaccio,Stade François-Coty,France,FR1
+290,AJ Auxerre,Stade de l'Abbé-Deschamps,France,FR1
+1159,AS Nancy,Stade Marcel-Picot,France,FR1
+1416,Amiens SC,Stade Crédit Agricole la Licorne,France,FR1
+1420,Angers SCO,Stade Raymond-Kopa,France,FR1
+3524,Clermont Foot,Stade Gabriel-Montpied,France,FR1
+2969,Dijon,Stade Gaston-Gérard,France,FR1
+1158,FC Lorient,Stade du Moustoir,France,FR1
+347,FC Metz,Stade Saint-Symphorien,France,FR1
+995,FC Nantes,Stade de la Beaujoire,France,FR1
+750,FC Sochaux,Stade Auguste-Bonal,France,FR1
+40,G. Bordeaux,Matmut Atlantique,France,FR1
+855,Guingamp,Stade du Roudourou,France,FR1
+738,Le Havre AC,Stade Océane,France,FR1
+826,Lens,Stade Bollaert-Delelis,France,FR1
+1082,Lille,Decathlon Arena-Stade Pierre-Mauroy,France,FR1
+1041,Lyon,Groupama Stadium,France,FR1
+244,Marseille,Orange Vélodrome,France,FR1
+162,Monaco,Stade Louis-II,France,FR1
+969,Montpellier,Stade de la Mosson,France,FR1
+417,Nice,Allianz Riviera,France,FR1
+1160,Nîmes Olympique,Stade des Antonins,France,FR1
+583,PSG,Parc des Princes,France,FR1
+10004,Paris FC,Stade Jean Bouin,France,FR1
+667,R. Strasbourg,Stade de la Meinau,France,FR1
+595,SC Bastia,Stade Armand-Cesari,France,FR1
+1162,SM Caen,Stade Michel-d'Ornano,France,FR1
+618,Saint-Étienne,Stade Geoffroy-Guichard,France,FR1
+3911,Stade Brestois,Stade Francis-Le Blé,France,FR1
+1421,Stade Reims,Stade Auguste-Delaune,France,FR1
+273,Stade Rennais,Roazhon Park,France,FR1
+415,Toulouse,Stadium Municipal,France,FR1
+1095,Troyes,Stade de l'Aube,France,FR1
+1423,Valenciennes FC,Stade du Hainaut,France,FR1
+3,1.FC Köln,RheinEnergieSTADION,Germany,L1
+4,1.FC Nuremberg,Max-Morlock-Stadion,Germany,L1
+10,Arm. Bielefeld,SchücoArena,Germany,L1
+167,Augsburg,WWK ARENA,Germany,L1
+27,Bayern Munich,Allianz Arena,Germany,L1
+105,Darmstadt 98,Merck-Stadion am Böllenfalltor,Germany,L1
+16,Dortmund,SIGNAL IDUNA PARK,Germany,L1
+23,E. Braunschweig,EINTRACHT-Stadion,Germany,L1
+38,F. Düsseldorf,MERKUR SPIEL-ARENA,Germany,L1
+4795,FC Ingolstadt,Audi Sportpark,Germany,L1
+33,FC Schalke 04,Veltins-Arena,Germany,L1
+24,Frankfurt,Deutsche Bank Park,Germany,L1
+60,Freiburg,Europa-Park Stadion,Germany,L1
+65,Greuther Fürth,Sportpark Ronhof | Thomas Sommer,Germany,L1
+41,Hamburg,Volksparkstadion,Germany,L1
+42,Hannover 96,Heinz-von-Heiden-Arena,Germany,L1
+2036,Heidenheim,Voith-Arena,Germany,L1
+44,Hertha BSC,Olympiastadion Berlin,Germany,L1
+533,Hoffenheim,PreZero Arena,Germany,L1
+269,Holstein Kiel,Holstein-Stadion,Germany,L1
+23826,Leipzig,Red Bull Arena,Germany,L1
+15,Leverkusen,BayArena,Germany,L1
+39,Mainz,Mewa Arena,Germany,L1
+127,SC Paderborn,Home Deluxe Arena,Germany,L1
+35,St. Pauli,Millerntor-Stadion,Germany,L1
+79,Stuttgart,MHPArena Stuttgart,Germany,L1
+89,Union Berlin,Stadion An der Alten Försterei,Germany,L1
+80,VfL Bochum,Vonovia Ruhrstadion,Germany,L1
+86,Werder Bremen,Weserstadion,Germany,L1
+82,Wolfsburg,Volkswagen Arena,Germany,L1
+5,AC Milan,Giuseppe Meazza,Italy,IT1
+800,Atalanta BC,New Balance Arena - Bergamo,Italy,IT1
+4171,Benevento,Ciro Vigorito,Italy,IT1
+1025,Bologna,Stadio Renato Dall’Ara,Italy,IT1
+19,Brescia,Mario Rigamonti,Italy,IT1
+1390,Cagliari,Unipol Domus,Italy,IT1
+4102,Carpi,Sandro Cabassi,Italy,IT1
+1429,Cesena,Orogel Stadium - Dino Manuzzi,Italy,IT1
+862,Chievo Verona,Marcantonio Bentegodi,Italy,IT1
+1047,Como,Giuseppe Sinigaglia,Italy,IT1
+2239,Cremonese,Giovanni Zini,Italy,IT1
+4083,Crotone,Ezio Scida,Italy,IT1
+749,FC Empoli,Carlo Castellani,Italy,IT1
+430,Fiorentina,Artemio Franchi,Italy,IT1
+8970,Frosinone,Benito Stirpe,Italy,IT1
+252,Genoa,Luigi Ferraris,Italy,IT1
+276,Hellas Verona,Marcantonio Bentegodi,Italy,IT1
+46,Inter,Giuseppe Meazza,Italy,IT1
+506,Juventus,Allianz Stadium,Italy,IT1
+398,Lazio,Olimpico di Roma,Italy,IT1
+1005,Lecce,Ettore Giardiniero,Italy,IT1
+1210,Livorno,Armando Picchi,Italy,IT1
+2919,Monza,Brianteo,Italy,IT1
+6195,Napoli,Diego Armando Maradona,Italy,IT1
+458,Palermo,"Comunale Renzo Barbera ""La Favorita""",Italy,IT1
+130,Parma,Ennio Tardini,Italy,IT1
+2921,Pescara,Adriatico,Italy,IT1
+4172,Pisa,Cetilar® Arena,Italy,IT1
+12,Roma,Olimpico di Roma,Italy,IT1
+2722,SPAL,Paolo Mazza,Italy,IT1
+380,Salernitana,Arechi,Italy,IT1
+1038,Sampdoria,Luigi Ferraris,Italy,IT1
+6574,Sassuolo,Mapei Stadium - Città del Tricolore,Italy,IT1
+1387,Siena,Artemio Franchi,Italy,IT1
+3522,Spezia Calcio,Alberto Picco,Italy,IT1
+416,Torino,Olimpico Grande Torino,Italy,IT1
+410,Udinese,Bluenergy Stadium,Italy,IT1
+607,Venezia,Pier Luigi Penzo,Italy,IT1
+238,Lech Poznan,Enea Poznań,Poland,PL1
+4000,Lechia Gdansk,Polsat Plus Arena Gdańsk,Poland,PL1
+255,Legia Warszawa,Stadion Miejski im. Marszałka Józefa Piłsudskiego,Poland,PL1
+6112,Piast Gliwice,Stadion Miejski - Gliwice,Poland,PL1
+7154,Radomiak,Stadion im. Braci Czachorów,Poland,PL1
+1108,Alavés,Mendizorroza,Spain,ES1
+621,Athletic,San Mamés,Spain,ES1
+13,Atlético,Riyadh Air Metropolitano,Spain,ES1
+131,Barcelona,Spotify Camp Nou,Spain,ES1
+331,CA Osasuna,El Sadar,Spain,ES1
+1244,CD Leganés,Ontime Butarque,Spain,ES1
+940,Celta de Vigo,Abanca Balaídos,Spain,ES1
+2687,Cádiz CF,Nuevo Mirandilla,Spain,ES1
+993,Córdoba CF,Nuevo Arcángel,Spain,ES1
+897,Dep. La Coruña,Abanca Riazor,Spain,ES1
+1531,Elche CF,Manuel Martínez Valero,Spain,ES1
+714,Espanyol,RCDE Stadium,Spain,ES1
+3709,Getafe,Coliseum,Spain,ES1
+12321,Girona,Montilivi,Spain,ES1
+16795,Granada CF,Nuevo Los Cármenes,Spain,ES1
+3368,Levante,Ciutat de València,Spain,ES1
+1084,Málaga CF,La Rosaleda,Spain,ES1
+237,RCD Mallorca,Mallorca Son Moix,Spain,ES1
+367,Rayo Vallecano,Estadio de Vallecas,Spain,ES1
+150,Real Betis,La Cartuja,Spain,ES1
+418,Real Madrid,Santiago Bernabéu,Spain,ES1
+2497,Real Oviedo,Carlos Tartiere,Spain,ES1
+681,Real Sociedad,Anoeta,Spain,ES1
+366,Real Valladolid,José Zorrilla,Spain,ES1
+142,Real Zaragoza,La Romareda,Spain,ES1
+1533,SD Eibar,Ipurua,Spain,ES1
+5358,SD Huesca,El Alcoraz,Spain,ES1
+368,Sevilla FC,Ramón Sánchez-Pizjuán,Spain,ES1
+2448,Sporting Gijón,El Molinón - Enrique Castro Quini,Spain,ES1
+3302,UD Almería,Power Horse Stadium,Spain,ES1
+472,UD Las Palmas,Estadio de Gran Canaria,Spain,ES1
+1049,Valencia,Mestalla,Spain,ES1
+1050,Villarreal,La Cerámica,Spain,ES1

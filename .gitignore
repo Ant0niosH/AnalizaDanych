@@ -25,3 +25,5 @@ data/raw/
 # --- System ---
 .DS_Store
 Thumbs.db
+
+**/*.quarto_ipynb
