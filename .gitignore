@@ -1,0 +1,27 @@
+# --- R ---
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.bak
+
+# --- renv ---
+renv/library/
+renv/staging/
+renv/python/
+renv/sandbox/
+renv/.cache/
+
+# --- Quarto ---
+/.quarto/
+_output/
+/_freeze/
+*_files/
+*_cache/
+
+# --- Dane ---
+data/raw/
+
+# --- System ---
+.DS_Store
+Thumbs.db

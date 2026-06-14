@@ -1,0 +1,133 @@
+---
+title: "Wizualizacja grafów na mapach: sieć transferów piłkarskich w Europie"
+subtitle: "Analiza danych przestrzennych — projekt grupowy"
+author:
+  - "Imię Nazwisko"
+  - "Imię Nazwisko"
+date: today
+lang: pl
+bibliography: references.bib
+nocite: |
+  @*
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+knitr::opts_chunk$set(
+  echo = TRUE,
+  warning = FALSE,
+  message = FALSE,
+  cache = TRUE,        # buforowanie — szybszy ponowny render
+  dpi = 150
+)
+
+library(tidyverse)
+library(sf)
+library(sfnetworks)
+library(tidygraph)
+library(igraph)
+library(rnaturalearth)
+library(tidygeocoder)
+library(edgebundle)
+library(leaflet)
+library(scales)
+```
+
+# Wprowadzenie
+
+<!--
+Ogólny opis problemu: czym jest rynek transferowy jako sieć (graf) i dlaczego
+warto patrzeć na niego przestrzennie. Cel prezentacji + pytania badawcze.
+Zarys przeglądu literatury (transfery jako sieci, flow maps, analiza sieci
+przestrzennych).
+-->
+
+Celem projektu jest przedstawienie europejskiego rynku transferowego jako
+**grafu przestrzennego** i analiza jego struktury na mapie. Stawiamy cztery
+pytania badawcze:
+
+1. Które kluby są hubami rynku (centralność w grafie)?
+2. Czy transfery są raczej lokalne, czy globalne (rozkład odległości)?
+3. Czy istnieją wspólnoty klubów handlujących między sobą i czy pokrywają się
+   z granicami krajów?
+4. Jaki jest bilans transferowy poszczególnych krajów (import vs eksport)?
+
+# Dane
+
+<!--
+Charakterystyka zbioru: "Football Data from Transfermarkt" (Kaggle,
+davidcariboo/player-scores). Opis plików transfers.csv / clubs.csv /
+competitions.csv. Charakterystyka zmiennych + dodana warstwa przestrzenna
+(geokodowanie klubów z OSM/Nominatim).
+-->
+
+```{r}
+#| label: dane
+#| eval: false
+
+# transfers <- read_csv("data/raw/transfers.csv")
+# clubs     <- read_csv("data/raw/clubs.csv")
+# ... (kod w R/01_load_clean.R)
+```
+
+# Metody
+
+<!--
+Krótki opis metod: konstrukcja grafu przestrzennego (POINT / LINESTRING, sf),
+metryki centralności (igraph), wykrywanie społeczności (Louvain),
+odległości wielkokołowe, macierz OD, edge bundling, kartogram.
+Tu wstaw ewentualne wzory, np. betweenness centrality.
+-->
+
+# Rezultaty
+
+<!--
+Najważniejsze rezultaty: mapy, kartogramy, wykresy, tablice + interpretacja.
+Na końcu: czy cele projektu zostały osiągnięte.
+-->
+
+## Mapa przepływów transferowych
+
+## Huby rynku (centralność)
+
+## Rozkład odległości transferów
+
+## Wspólnoty klubów
+
+## Bilans transferowy krajów
+
+# Podsumowanie
+
+<!-- Synteza wniosków, ograniczenia, możliwe rozszerzenia. -->
+
+# Literatura
+
+::: {#refs}
+:::
+
+# Aneks — listing kodu
+
+<!--
+Pełny kod używany w projekcie. Najwygodniej: skrypty z folderu R/
+wstawione przez chunk z opcją file=, np.:
+-->
+
+```{r}
+#| label: aneks-01
+#| eval: false
+#| file: R/01_load_clean.R
+```
+
+```{r}
+#| label: aneks-02
+#| eval: false
+#| file: R/02_geocode.R
+```
+
+```{r}
+#| label: aneks-03
+#| eval: false
+#| file: R/03_graph.R
+```

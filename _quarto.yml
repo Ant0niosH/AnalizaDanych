@@ -1,0 +1,20 @@
+project:
+  type: default
+  output-dir: _output
+
+lang: pl
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    toc-title: "Spis treści"
+    number-sections: true
+    code-fold: true        # kod zwinięty, czytelnik rozwija na żądanie
+    code-tools: true       # przycisk "pokaż kod" w prawym górnym rogu
+    code-overflow: wrap
+    embed-resources: true  # samodzielny plik .html do oddania (bez folderu _files)
+    fig-width: 9
+    fig-height: 6
+    fig-align: center
